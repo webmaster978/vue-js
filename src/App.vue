@@ -29,11 +29,14 @@ export default {
   // name: 'Alert',
   data () {
     return {
-      msg: 'Welcome to my Vue.js App'
+      msg: 'Welcom.js App'
     }
   }
 }
+
 </script>
+
+
 
 <style>
 #app {
